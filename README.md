@@ -11,10 +11,12 @@ We got raw data from a bike sales shop, with some information related to their c
 To ensure that our data is ready to use, we remove duplicates, transform some data description (Marital Status (S / M) and Gender (M / F) to complete words (Single / Married) & (Male / Female))
 and binning the age to different groups to simplify the visualizations.
 
+![Clean Data](CleanedData.png)
+
 ## Visualization
 
 Three different pivot tables were created and from each one a chart that represents each summary, joined by different filter slicers our dashboard takes shape and 
-it's ready to present to stakeholders.
+it's ready to go.
 
 ![Dashboard](ExcelDashboard.png)
 
